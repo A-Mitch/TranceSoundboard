@@ -1,0 +1,23 @@
+body{
+	font-family: sans-serif;
+}
+
+main {
+	margin: 0px 3em 0px 3em;
+
+}
+
+.sound {
+	border: 2px solid black;
+	margin: 2px;
+
+	text-align: center;
+
+	display: inline-block;
+	width: 20%;
+}
+
+button {
+	margin: 1em;
+	width: 10%;
+}
